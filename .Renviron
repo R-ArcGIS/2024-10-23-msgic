@@ -1,0 +1,4 @@
+ARCGIS_USER=yourusername
+ARCGIS_PASSWORD=yourpassword
+# If on ArcGIS Enterprise you need to set ARCGIS_HOST
+# ARCGIS_HOST=https://your-portal-url.com/
