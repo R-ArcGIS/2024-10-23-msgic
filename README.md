@@ -18,7 +18,7 @@ For more information, see our [installation instructions here](https://developer
 Additional packages that will be used in the workshop: 
 
 ```r
-install.packages(c("shiny", "bslib", "leaflet", "bsicons", "dplyr", "ggplot2", "plotly"))
+install.packages(c("shiny", "bslib", "leaflet", "bsicons", "dplyr", "ggplot2", "plotly", "lubridate"))
 ```
 
 ## Downloading this repository
